@@ -1,0 +1,7 @@
+
+# backup files
+.bak
+
+# temporary directories
+Demo/
+Test/
