@@ -1,6 +1,9 @@
 
 # backup files
 .bak
+.log
+.py~
+.sql~
 
 # temporary directories
 Demo/
